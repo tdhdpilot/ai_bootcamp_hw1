@@ -5,7 +5,5 @@ This is the AI Bootcamp Homework 1
 2. List 2
 3. List 3
 
-Unordered List 1
-Unordered List 2
-
-Additional notes from Github main
+* Unordered List 1
+* Unordered List 2
