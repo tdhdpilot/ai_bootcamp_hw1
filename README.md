@@ -7,3 +7,6 @@ This is the AI Bootcamp Homework 1
 
 * Unordered List 1
 * Unordered List 2
+
+
+* 2nd readme edit from Main Branc (GitHub)
